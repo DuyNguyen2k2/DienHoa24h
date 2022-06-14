@@ -4,9 +4,12 @@
 .email:hover{
     color: #96b104;
 }
-.p{
+p{
     font-size: 14px;
 }
-.a{
+a{
     text-decoration: none;
+}
+.body a:hover{
+    color: #96b104;
 }

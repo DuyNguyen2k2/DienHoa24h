@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jun 2022 08:42:40 at https://dienhoa24gio.com/dat-hoa.aspx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dienhoa24gio.com/dat-hoa.aspx -O1 "D:\BaiTapLonWeb\DienHoa24h\order flowers fast" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Common/bg_topbar.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Common/logo.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Common/bg_undermenubar.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Common/bg_footer.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Grid/grid_headerBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Grid/header_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Grid/header_hoverBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Grid/header_activeBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/group_background.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/item_hover_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/top_group_background.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/break_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/group_background_Large.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/top_item_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/item_hover_bg1.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Menu/break_bg_large.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/maskBG.png (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Splitter/splitter_horBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Tab/tab_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Tab/hover_tab_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Tab/selected_tab_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Tab/scroll_item_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Tab/hover_scroll_item_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/ToolBar/PageEditToolbarBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/ToolBar/RoundedButtonBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/ToolBar/RoundedButtonHoverBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/ToolBar/CommandBarBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/WebPart/AddWebPartBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/WebPart/AddWebPartHoverBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/ToolBar/ButtonBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/WebPart/ZoneHeaderBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/headerBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/bullet.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Grid/Scroller/scroller_bg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Images/Grid/Scroller/scroll_gripBg.gif (from https://dienhoa24gio.com/Core.css)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/POST (from https://dienhoa24gio.com/WebResource.axd?d=d-_ynpgtPWjCw_AhspX2goUkuw7zu4_Kdi146lNxa7STTUsLdK6cdBrOTN-Nlc36-31e44ptbNx9ANKa32ys20PoGDY1&t=637812207300000000)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Firefox/ (from https://dienhoa24gio.com/ScriptResource.axd?d=H8hPS7dUBDFjGTEzq9_GBUYz5CkSVtvkvCqFW0erEbA3xQdbtdIKQIQzGDa05pJgUJ4I_yngz5feqcbXT7b2FXpxWKXwxtYCBYAAdu4CqIdNcNMQCFkMGWznmeIUftlQdKGZklED9bT5PA2WLmKZ2GsNIw01&t=3f4a792d)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/AppleWebKit/ (from https://dienhoa24gio.com/ScriptResource.axd?d=H8hPS7dUBDFjGTEzq9_GBUYz5CkSVtvkvCqFW0erEbA3xQdbtdIKQIQzGDa05pJgUJ4I_yngz5feqcbXT7b2FXpxWKXwxtYCBYAAdu4CqIdNcNMQCFkMGWznmeIUftlQdKGZklED9bT5PA2WLmKZ2GsNIw01&t=3f4a792d)
+08:44:16	Error: 	"Not Found" (404) at link https://dienhoa24gio.com/Opera/ (from https://dienhoa24gio.com/ScriptResource.axd?d=H8hPS7dUBDFjGTEzq9_GBUYz5CkSVtvkvCqFW0erEbA3xQdbtdIKQIQzGDa05pJgUJ4I_yngz5feqcbXT7b2FXpxWKXwxtYCBYAAdu4CqIdNcNMQCFkMGWznmeIUftlQdKGZklED9bT5PA2WLmKZ2GsNIw01&t=3f4a792d)
+08:44:16	Error: 	"Service Unavailable" (503) at link https://tracking.autoads.asia/js/tracking.js (from https://dienhoa24gio.com/)
+08:45:16	Error: 	Exit requested by shell or user
+08:45:16	Warning: 	unexpected incomplete type with 200 code at https://dienhoa24gio.com/Su-kien-dien-hoa-24h.aspx?page=6
+08:45:16	Warning: 	File not added due to mirror cancel: https://dienhoa24gio.com/Su-kien-dien-hoa-24h.aspx?page=6
+08:45:26	Error: 	Exit requested by shell or user
+08:45:26	Error: 	"" (-1) at link https://dienhoa24gio.com/News/7637/shop-hoa-sinh-nhat-hot-nhat-ha-noi.aspx (from https://dienhoa24gio.com/)
+08:45:26	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 46 seconds : 483 links scanned, 441 files written (45247424 bytes overall) [45409701 bytes received at 273552 bytes/sec], 35956604 bytes transferred using HTTP compression in 289 files, ratio 99%, 1.0 requests per connection
+(44 errors, 2 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

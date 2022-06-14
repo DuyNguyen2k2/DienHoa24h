@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dienhoa24gio.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	0Iy05iG22AEkAAAAMGRjMTBkNTItOTk3OC00NGY5LTgwOTctYWRhZjljMjNlZDkx7i8RCzKNtaIDShBjZRLjGeqeJQw1
+dienhoa24gio.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	4bimsh45sjnnplrq0y4oxx23
+
